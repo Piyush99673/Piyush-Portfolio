@@ -11,11 +11,14 @@
     "imageSrc": "history/Zluri.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
+    "role": "Full Stack Intern",
+    "organisation": "I-Care Foundation MExico ",
+    "startDate": "July, 2022",
     "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "experiences": [
+      "Provided valuable assistance by building the organization’s website ",
+      "Gathered and analyzed data using SQL to generate insightful reports for potential donors and funding"
+    ],
+    "imageSrc": "history/Icare.png"
   }
 ]
