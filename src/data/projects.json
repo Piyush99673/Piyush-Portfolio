@@ -2,25 +2,24 @@
   {
     "title": "Chat-Application",
     "imageSrc": "projects/project.png",
-    "description": "Built and deployed a real time chat application",
+    "description": "Built and deployed a real time chat application using Webhooks and JWT authorisation.",
     "skills": ["React", "Express", "Node", "Websockets"],
     "demo": "https://chat-app-prod-ri61.onrender.com/",
     "source": "https://github.com/Piyush99673/Chat-App"
   },
   {
-    "title": "Project B",
+    "title": "Sorting Algorithm Visualiser",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Comparison of various sorting algorithms and their operations.",
+    "skills": ["Html", "CSS", "Javascript"],
+    "demo": "https://piyush99673.github.io/Sorting-Algorithm-Visualiser/",
+    "source": "https://github.com/Piyush99673/Sorting-Algorithm-Visualiser"
   },
   {
-    "title": "Project C",
+    "title": "IVR-Service",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Built the backedn of an IVR service which can be used to trigger/check status of the IVR",
+    "skills": ["MongoDB", "Express", "Node"],
+    "source": "https://github.com/Piyush99673/IVR-Tracking"
   }
 ]
