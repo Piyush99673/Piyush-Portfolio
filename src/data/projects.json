@@ -1,11 +1,11 @@
 [
   {
-    "title": "Project A",
+    "title": "Chat-Application",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Built and deployed a real time chat application",
+    "skills": ["React", "Express", "Node", "Websockets"],
+    "demo": "https://chat-app-prod-ri61.onrender.com/",
+    "source": "https://github.com/Piyush99673/Chat-App"
   },
   {
     "title": "Project B",
