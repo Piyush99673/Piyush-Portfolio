@@ -1,0 +1,21 @@
+[
+  {
+    "role": "SWE Intern",
+    "organisation": "Zluri Technologies",
+    "startDate": "July, 2023",
+    "endDate": "December, 2023",
+    "experiences": [
+      "Worked on Backend Repos on Nodejs",
+      "Helped in data migration and API optimization"
+    ],
+    "imageSrc": "history/Zluri.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  }
+]
